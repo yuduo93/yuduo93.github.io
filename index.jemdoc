@@ -1,0 +1,59 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Yugang Ji 
+
+~~~
+{}{img_left}{photos/bio.jpg}{alt text}{131}{160}{http://people.kth.se/~euhanna/}
+Ph.D Candidate,\n [https://scs.bupt.edu.cn/xygk/jgsz/sjkxydsjkxx1/sjkxyfwzx.htm Data Science and Service Center], \n[http://www.kth.se Beijing University of Posts and Telecommunications (BUPT)]\n
+No.10 Xitucheng Road, Haidian District \n
+Beijing, China\n
+E-mail: /jiyugang/ \[@\] bupt \[DOT\] edu.cn
+~~~
+
+== About me
+I received the B.S. degree in the internet of things engineering from Northwest Normal University ([http://www.nwnu.edu.cn/ NWNU]) in 2016. I am studying for the PhD degree in Computer Science and Technology under the supervision of [http://www.shichuan.org/ Prof. Chuan Shi] at [http:www.bupt.edu.cn BUPT].  
+
+== Research
+My research interests include 
+- data mining and machine learning
+- (heterogeneous) graph representation learning
+- topic modelling and opinion mining
+- self-supervised learning
+
+== Education
+- School of Computer Sciences, Beijing University of Posts and Telecommunications Computer Science and Techlogoly, Beijing, China~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~2016.09 - Present\n
+*Ph.D candidate* in Computer Science and Technology,~~~~Advisor: Chuan Shi
+- College of Computer Science & Engineering, Northwest Normal University, Lanzhou, China.~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~2012.09 - 2020.06\n
+*B.S* in Internet of Things Engineering
+
+#[research.html Find out more].
+== Publications
+=== Conference Publications 
+. *Yugang Ji*, MingYang Yin, Yuan Fang, Hongxia Yang, Xiangwei Wang, Tianrui Jia and Chuan Shi. *Temporal Heterogeneous Interaction Graph Embedding For Next-Item Recommendation*. ECML-PKDD 2020 (Accepted).
+. Mingjun Ma, Bo Peng, Ding Xiao, *Yugang Ji* and Chuan Shi. *STCNet: Spatial-Temporal Convolution Network for Traffic Speed Prediction*. ADMA 2020 (Accepted).
+. *Yugang Ji*, Chuan Shi, Fuzhen Zhuang, Philip S. Yu. *Integrating Topic Model and Heterogeneous Information Network for Aspect Mining with Rating Bias*. PAKDD 2019: 160-171. \[[https://link.springer.com/chapter/10.1007/978-3-030-16148-4_13 PDF]\]
+. *Yugang Ji*, Yitong Li, Chuan Shi. *Aspect rating prediction based on heterogeneous network and topic model*. Journal of Computer Applications (Chinese), 2017, 37(11): 3201-3206. \[[http://www.joca.cn/CN/abstract/abstract21257.shtml PDF]\] 
+. Huifang Ma, *Yugang Ji*, Xiaohong Li and Runan Zhou. *A microblog hot topic detection algorithm based on discrete particle swarm optimization*. PRICAI 2016: 271-282. \[[https://link.springer.com/chapter/10.1007/978-3-319-42911-3_23 PDF]\]
+
+=== Journal Publications
+. *Yugang Ji*, MingYang Yin, Hongxia Yang, Jingren Zhou, Vincent W. Zheng, Chuan Shi and Yuan Fang. *Accelerating Large-Scale Heterogeneous Interaction Graph Embedding Learning via Importance Sampling*. ACM Transactions on Knowledge Discovery from Data (Accepted). 
+. *Yugang Ji*, Chuan Shi, Yuan Fang, Xiangnan Kong, Mingyang Yin. *Semi-supervised Co-Clustering on Attributed Heterogeneous Information Networks*. Information Processing and Management, 57.6 (2020): 102338. \[[https://www.sciencedirect.com/science/article/abs/pii/S0306457320308335 PDF]\]
+. Ding Xiao, *Yugang Ji*, Yitong Li. Fuzhen Zhuang, Chuan Shi. *Coupled matrix factorization and topic modeling for aspect mining*. Information Processing and Management, 54.6 (2018): 861-873.\[[http://shichuan.org/doc/51.pdf PDF]\]
+. Chuan Shi, Zhiqiang Zhang, *Yugang Ji*, Weipeng Wang, Philiph S. Yu, Zhiping Shi. *SemRec: A Personalized Semantic Recommendation Method based on Weighted Heterogeneous Information Networks*. World Wide Web Journal, 2018: 1-32. \[[http://shichuan.org/doc/50.pdf PDF]\]
+
+== Experiences
+- *Research Engineer*, Advanced Digital Sciences Center (ADSC), Illinois at Singapore Pte Ltd, Singapore.~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~2018.07 - 2019.05
+- *Research Intern*, Alibaba Group, Hangzhou, China.~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~2019.06 - 2020.01
+
+== Selected Awards
+. *National Scholarship for Doctoral Students* (BUPT, 2020) ｜ 博士研究生国家奖学金
+. *Principle's Scholarship* (NWNU, 2016) ｜ 校长奖学金
+. *Merit Student in Gansu Province* (NWNU, 2016) ｜ 甘肃省三好学生
+. *National Encouragement scholarship* (NWNU, 2013) ｜ 国家励志奖学金
+
+
+
+
+
+#[publications.html Full list of publications].
+#\n
+#[cv.pdf A brief cv].
